@@ -27,11 +27,11 @@
 # '''
 
 
-num = int(input("enter a number: "))
+# num = int(input("enter a number: "))
 
-for i in range(1, num + 1):
-    temp = int("2" * i)  
-    print(temp, end=", " if i < num else "\n")
+# for i in range(1, num + 1):
+#     temp = int("2" * i)  
+#     print(temp, end=", " if i < num else "\n")
         
     
     
